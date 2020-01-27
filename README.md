@@ -1,1 +1,1 @@
-First lesson, how to use your own machine virtual, history of holberton and how you can use the Intranet.
+First lesson, how to use your own machine virtual wtih vagrant and virtualbox, history of holberton and how you can use the Intranet.
