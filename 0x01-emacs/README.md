@@ -1,0 +1,1 @@
+understand what is Emacs, how you can use Emcas and why should you use Emacs
